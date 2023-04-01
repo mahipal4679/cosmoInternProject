@@ -1,0 +1,9 @@
+.App {
+    background-color: rgb(138, 205, 222);
+    width: 800px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 30px 30px 30px 30px;
+}
